@@ -1,4 +1,4 @@
-# prayer-timming
-prayer-timming Using (react, react-dom, axios, vite)
+# prayers-timing
+prayer-timing Using (react, react-dom, axios, vite)
 ## Demo Link
 https://prayers-timming.netlify.app/
